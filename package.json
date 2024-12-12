@@ -8,12 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "env": "^0.0.2",
     "express": "^4.21.1",
+    "mongoose": "^8.8.3",
     "nodemo": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
-  }
+  },
+  "description": ""
 }
